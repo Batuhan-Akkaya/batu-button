@@ -1,6 +1,6 @@
 export default {
     btn: {
-        backgroundColor: colors.blue,
+        backgroundColor: '#1cadda',
         alignItems: 'center',
         justifyContent: 'center',
         height: 45,
